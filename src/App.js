@@ -94,7 +94,6 @@ function App() {
                   </div>
                 </div>
               </div>
-              <div className="col"></div>
           </div>
       </main>
     </div>
